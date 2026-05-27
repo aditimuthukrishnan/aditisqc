@@ -6,7 +6,7 @@ A BTech research project combining **Value Stream Mapping**, **Discrete Event Si
 
 ---
 
-## 🔬 Research Context
+## Research Context
 
 India's HVAC market ($12B, growing at 7.5–16% CAGR) faces mounting pressure from BEE star ratings, the Kigali Amendment's HFC phase-down, and India's net-zero 2070 commitment. Despite this, no academic research exists on lean-green manufacturing optimization for Indian HVAC facilities.
 
@@ -14,7 +14,7 @@ This project fills that gap with real factory data from an Indian HVAC facility.
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 | Phase | Approach | Tools |
 |-------|----------|-------|
@@ -31,7 +31,7 @@ This project fills that gap with real factory data from an Indian HVAC facility.
 
 ---
 
-## 📊 Dashboard & Simulation
+## Dashboard & Simulation
 
 An interactive dashboard built with **Streamlit** visualizes:
 - Current vs future state value stream maps
@@ -84,6 +84,6 @@ aditisqc/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 `Python` · `Streamlit` · `Pandas` · `Plotly` · `NSGA-II` · `Discrete Event Simulation`
