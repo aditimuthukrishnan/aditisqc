@@ -39,7 +39,7 @@ An interactive dashboard built with **Streamlit** visualizes:
 - Pareto-optimal lean-green trade-offs
 - HVAC-specific environmental metrics (refrigerant emissions, VOC, energy per station)
 
-## 🚀 Running the Dashboard
+## Running the Dashboard
 
 ```bash
 # Install dependencies
@@ -51,7 +51,7 @@ streamlit run app.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 aditisqc/
@@ -68,7 +68,7 @@ aditisqc/
 
 ---
 
-## 🎯 Key Findings
+## Key Findings
 
 - HVAC manufacturing process cycle efficiency: < 0.05% (customer needs ~20 min value-added work; delivery takes ~32 days)
 - Refrigerant emissions (R-410A): GWP of 2,088 — a critical and previously unmeasured manufacturing metric
@@ -76,7 +76,7 @@ aditisqc/
 
 ---
 
-## 📄 Target Publication
+## Target Publication
 
 **IEEE IEEM 2026 / IEEE Access**
 
